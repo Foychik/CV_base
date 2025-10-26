@@ -29,5 +29,5 @@
     - Находим шаблон на сцене через `cv2.matchTemplate`.
     - Усиливаем контуры (Sobel/Canny) для наглядности.
       <p align="center">
-        <img src="presentation/i5_.png" width="50%">
+        <img src="presentation/i4_.png" width="50%">
       </p>
