@@ -22,12 +22,12 @@
     - Перекодируем пиксели в признаки, применяем `cv2.kmeans`.
     - Смотрим влияние числа кластеров (3/5/7/9).
       <p align="center">
-        <img src="presentation/i3_.png" width="75%">
+        <img src="presentation/i4_.png" width="75%">
       </p>
 
 3. **Template Matching + усиление границ**
     - Находим шаблон на сцене через `cv2.matchTemplate`.
     - Усиливаем контуры (Sobel/Canny) для наглядности.
       <p align="center">
-        <img src="presentation/i4_.png" width="50%">
+        <img src="presentation/i5_.png" width="50%">
       </p>
