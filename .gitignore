@@ -1,0 +1,23 @@
+# кэш и системные файлы
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+*.log
+
+# большие видео и бинарники
+*.avi
+*.mp4
+*.mov
+*.zip
+
+# временные/лишние картинки
+photo_*.jpg
+*.jfif
+*
+
+# всё остальное оставить
+!data/
+!presentation/
+!*.ipynb
+!*.png
+!README.md
